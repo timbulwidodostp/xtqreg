@@ -3,6 +3,8 @@ Linear Quantile Mixed Models Use xtqreg With STATA 19
 
 Mixed-effects Quantile regression Use xtqreg With STATA 19
 
+https://www.youtube.com/watch?v=D_-vWeI1r9s
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
